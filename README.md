@@ -1,4 +1,4 @@
 # BankingMan_System
 Banking Management System 
-author adanan
+author Adanan kasif
 
